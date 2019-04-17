@@ -34,19 +34,19 @@
       "Country": "Japan",
       "Attractions": "Mt. Fuji, temples, hotsprings A5 Wagyu beef",
       "7 Day Budget": "$5,500",
-      "Best Time to Visit": "October to December"
+      "Best Time to Visit": "March to May"
     },
     {
-      "Country": "Chile",
-      "Attractions": "Easter Island",
+      "Country": "Jerusalem",
+      "Attractions": "Holy Land tour",
       "7 Day Budget": "$4,500",
-      "Best Time to Visit": "October to December"
+      "Best Time to Visit": "April to May"
     },
     {
-      "Country": "Chile",
-      "Attractions": "Easter Island",
-      "7 Day Budget": "$4,500",
-      "Best Time to Visit": "October to December"
+      "Country": "New Zealand",
+      "Attractions": "Hobbiton, skydive, whales in Kaikoura",
+      "7 Day Budget": "$5,000",
+      "Best Time to Visit": "September to November"
     },
     {
       "Country": "Chile",
