@@ -10,22 +10,18 @@
     <table id="empTable" class="display" width="100%" cellspacing="0">
         <thead>
             <tr>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Office</th>
-                <th>Extension</th>
-                <th>Joining Date</th>
-                <th>Salary</th>
+                <th>Country</th>
+                <th>Attractions</th>
+                <th>Best Time to Visit</th>
+                <th>7 Day Budget</th>
             </tr>
         </thead>
         <tfoot>
             <tr>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Office</th>
-                <th>Extension</th>
-                <th>Joining Date</th>
-                <th>Salary</th>
+                <th>Country</th>
+                <th>Attractions</th>
+                <th>Best Time to Visit</th>
+                <th>7 Day Budget</th>
             </tr>
         </tfoot>
     </table>
@@ -40,12 +36,10 @@
         $('#empTable').dataTable({
             "ajax": "empdata.js",
             "columns": [
-                {"data": "name"},
-                {"data": "designation"},
-                {"data": "office"},
-                {"data": "extension"},
-                {"data": "joining_date"},
-                {"data": "salary"}
+                {"data": "Country"},
+                {"data": "Attractions"},
+                {"data": "Best Time to Visit"},
+                {"data": "7 Day Budget"}
             ]
         });   
     });
