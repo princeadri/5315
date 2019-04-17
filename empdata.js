@@ -67,28 +67,28 @@
       "Best Time to Visit": "February to April"
     },
     {
-      "Country": "Chile",
-      "Attractions": "Easter Island",
-      "7 Day Budget": "$4,500",
-      "Best Time to Visit": "October to December"
+      "Country": "South Korea",
+      "Attractions": "Nami Island, Gyeongbokgung, N Seoul Tower",
+      "7 Day Budget": "$5,500",
+      "Best Time to Visit": "September to November"
     },
     {
-      "Country": "Chile",
-      "Attractions": "Easter Island",
+      "Country": "Switzerland",
+      "Attractions": "Matterhorn, Jungfraujoch",
       "7 Day Budget": "$4,500",
-      "Best Time to Visit": "October to December"
+      "Best Time to Visit": "March"
     },
     {
-      "Country": "Chile",
-      "Attractions": "Easter Island",
-      "7 Day Budget": "$4,500",
-      "Best Time to Visit": "October to December"
+      "Country": "Thailand",
+      "Attractions": "Thai cuisine, elephant sanctuary",
+      "7 Day Budget": "$4,000",
+      "Best Time to Visit": "November to April"
     },
     {
-      "Country": "Chile",
-      "Attractions": "Easter Island",
-      "7 Day Budget": "$4,500",
-      "Best Time to Visit": "October to December"
+      "Country": "Zambia",
+      "Attractions": "Mosi-OA Tunya Park, safari",
+      "7 Day Budget": "$9,000",
+      "Best Time to Visit": "May to September"
     }
   ]
 }
