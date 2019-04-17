@@ -15,26 +15,26 @@
     {
       "Country": "France",
       "Attractions": "Louvre, Eiffel Tower",
-      "7 Day Budget": "$4,500",
-      "Best Time to Visit": "October to December"
+      "7 Day Budget": "$6,000",
+      "Best Time to Visit": "September to November"
     },
     {
-      "Country": "Chile",
-      "Attractions": "Easter Island",
+      "Country": "Greece",
+      "Attractions": "Parthenon, Meteora, Melissani cave",
       "7 Day Budget": "$4,500",
-      "Best Time to Visit": "October to December"
+      "Best Time to Visit": "September to October"
     },
     {
-      "Country": "Chile",
-      "Attractions": "Easter Island",
+      "Country": "Iceland",
+      "Attractions": "Aurora Borealis, Blue lagoon",
       "7 Day Budget": "$4,500",
-      "Best Time to Visit": "October to December"
+      "Best Time to Visit": "September to March"
     },
     {
-      "Country": "Chile",
-      "Attractions": "Easter Island",
-      "7 Day Budget": "$4,500",
-      "Best Time to Visit": "October to December"
+      "Country": "Japan",
+      "Attractions": "Mt. Fuji, temples, hotsprings A5 Wagyu beef",
+      "7 Day Budget": "$5,500",
+      "Best Time to Visit": "March to May"
     },
     {
       "Country": "Chile",
