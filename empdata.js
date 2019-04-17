@@ -1,10 +1,10 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
+      "Country": "Chile",
+      "Attractions": "Easter Island",
+      "Best Time to Visit": "October to December",
+      "7-Day Budget": "$4,000"
       "office": "Tokyo",
       "extension": "8422"
     },
