@@ -49,22 +49,22 @@
       "Best Time to Visit": "September to November"
     },
     {
-      "Country": "Chile",
-      "Attractions": "Easter Island",
+      "Country": "Prague",
+      "Attractions": "River cruise, city tour",
       "7 Day Budget": "$4,500",
-      "Best Time to Visit": "October to December"
+      "Best Time to Visit": "September to October"
     },
     {
-      "Country": "Chile",
-      "Attractions": "Easter Island",
+      "Country": "Rome",
+      "Attractions": "Basilica, Colosseum",
       "7 Day Budget": "$4,500",
-      "Best Time to Visit": "October to December"
+      "Best Time to Visit": "September to October"
     },
     {
-      "Country": "Chile",
-      "Attractions": "Easter Island",
+      "Country": "Singapore",
+      "Attractions": "Sentosa park",
       "7 Day Budget": "$4,500",
-      "Best Time to Visit": "October to December"
+      "Best Time to Visit": "February to April"
     },
     {
       "Country": "Chile",
